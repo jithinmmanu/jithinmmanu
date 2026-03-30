@@ -7,18 +7,25 @@
 
 ---
 
-🌱 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚆𝚘𝚛𝚔𝚒𝚗𝚐 𝚊𝚜  
-** 𝓢𝓸𝓯𝓽𝔀𝓪𝓻𝓮 𝓔𝓷𝓰𝓲𝓷𝓮𝓮𝓻 𝓘𝓷𝓽𝓮𝓻𝓷 **  
+### 🌱 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚆𝚘𝚛𝚔𝚒𝚗𝚐 𝚊𝚜  
+**𝓢𝓸𝓯𝓽𝔀𝓪𝓻𝓮 𝓔𝓷𝓰𝓲𝓷𝓮𝓮𝓻 𝓘𝓷𝓽𝓮𝓻𝓷**  
 
-🎓 𝙱.𝚃𝚎𝚌𝚑 𝙲𝚘𝚖𝚙𝚞𝚝𝚎𝚛 𝚂𝚌𝚒𝚎𝚗𝚌𝚎 𝙴𝚗𝚐𝚒𝚗𝚎𝚎𝚛𝚒𝚗𝚐  
+### 🎓 𝙴𝚍𝚞𝚌𝚊𝚝𝚒𝚘𝚗  
+B.Tech Computer Science Engineering  
 
-👨‍💻 𝙰𝚕𝚕 𝚘𝚏 𝚖𝚢 𝚙𝚛𝚘𝚓𝚎𝚌𝚝𝚜 𝚊𝚛𝚎 𝚊𝚟𝚊𝚒𝚕𝚊𝚋𝚕𝚎 𝚊𝚝  
-👉 https://github.com/jithinmmanu  
+---
 
-💬 𝙰𝚜𝚔 𝚖𝚎 𝚊𝚋𝚘𝚞𝚝  
-👉 𝙼𝙴𝚁𝙽, 𝙿𝚛𝚒𝚜𝚖𝚊, 𝙽𝚘𝚍𝚎.𝚓𝚜  
+### 👨‍💻 𝙿𝚛𝚘𝚓𝚎𝚌𝚝𝚜  
+👉 https://github.com/jithinmmanu?tab=repositories  
 
-📫 𝙷𝚘𝚠 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎  
+---
+
+### 💬 𝚂𝚔𝚒𝚕𝚕𝚜  
+👉 MERN, Prisma, Node.js  
+
+---
+
+### 📫 𝙲𝚘𝚗𝚝𝚊𝚌𝚝  
 👉 jithinmmanu309@gmail.com  
 
 ---
@@ -52,7 +59,3 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jithinmmanu&layout=compact&theme=tokyonight" />
 </p>
-
----
-
-
